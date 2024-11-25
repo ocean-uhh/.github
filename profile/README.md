@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the organisation for the Experimental Oceanography group of the Institute of Oceanography at the University of Hamburg.  Repositories here are developed by current and past group members and friends, and consist of coursebooks for teaching, code for processing oceanographic data, and for analysing data.
+This is the organisation for the [Experimental Oceanography](http://eleanorfrajka.com) group of the [Institute of Oceanography](https://www.ifm.uni-hamburg.de/en.html) at the University of Hamburg.  Repositories here are developed by current and past group members and friends, and consist of coursebooks for teaching, code for processing oceanographic data, and for analysing data.
 
 
 <!--
