@@ -19,7 +19,7 @@ Repositories here are developed by current and past group members and collaborat
 
 ## 🌍 Related Repositories (Elsewhere on GitHub)
 
-- ⚙️�️[**amocarray**](http://github.com/AMOCCommunity/amocarray) - For loading data from overturning transport arrays (RAPID, OSNAP, MOVE, SAMBA)
+- ⚙️ [**amocarray**](http://github.com/AMOCCommunity/amocarray) - For loading data from overturning transport arrays (RAPID, OSNAP, MOVE, SAMBA)
 - 🤖 [**glidertest**](http://github.com/oceangliderscommunity/glidertest) - For evaluating quirks and quality of glider data in [OG1 format](https://oceangliderscommunity.github.io/OG-format-user-manual/OG_Format.html)
 - 🧭 [**fetchAZA**](http://github.com/eleanorfrajka/fetchAZA) - For loading and standardising data from the Sonardyne FetchAZA pressure sensor
 - 🛩️ [**flightmodels**](http://github.com/eleanorfrajka/flightmodels) - For running glider flight models on OG1 format data
