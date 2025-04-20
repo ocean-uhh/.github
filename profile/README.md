@@ -28,7 +28,7 @@ Repositories here are developed by current and past group members and collaborat
 
 ## 📘 Coursebooks
 
-- 🔄 [**amoccourse**](http://github.com/ifmeo-hamburg/amoccourse) *(registered students only)* - MSc AMOC course, Summer Semester 2025
+- 🔄 [**amoc-course**](http://github.com/ifmeo-hamburg/amoc-course) *(registered students only)* - MSc AMOC course, Summer Semester 2025
 - 🌐 [**seaocn**](http://github.com/ifmeo-hamburg/seaocn) - MSc Seagoing Oceanography, Summer Semester 2024
 - 🛰️ [**messfern**](http://github.com/ifmeo-hamburg/messfern) - BSc Messmethoden und Fernerkundung, Winter Semester 2024/25
 - 🗺️ [**regoz**](http://github.com/ifmeo-hamburg/regoz) - BSc Regional Oceanography, Summer Semester 2024
