@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the organisation for the [Experimental Oceanography](http://eleanorfrajka.com) group of the [Institute of Oceanography](https://www.ifm.uni-hamburg.de/en.html) at the University of Hamburg.  Repositories here are developed by current and past group members and colleagues, and consist of coursebooks for teaching, code for processing oceanographic data, and for analysing data.
+This is the organisation for the [Experimental Oceanography](http://eleanorfrajka.com) group of the [University of Hamburg](https://www.ifm.uni-hamburg.de/en.html).  Repositories here are developed by current and past group members and colleagues, and consist of coursebooks for teaching, code for processing oceanographic data, and for analysing data.
 
 - [amocarray](http://github.com/AMOCCommunity/amocarray) - for loading data from overturning transport arrays (e.g., RAPID, OSNAP, MOVE, SAMBA)
 - [seagliderOG1](http://github.com/ifmeo-hamburg/seagliderOG1) - for translation Seaglider basestation files to [OG1](https://oceangliderscommunity.github.io/OG-format-user-manual/OG_Format.html) format.
@@ -15,6 +15,8 @@ Coursebooks:
 - [messfern](http://github.com/ifmeo-hamburg/messfern) - for BSc Messmethoden (und Fernerkundung) practical exercises in Winter Semester 2024/25
 - [regoz](http://github.com/ifmeo-hamburg/regoz) - for BSc Regional Oceanography practical exercises in Summer Semester 2024
 
+Getting started:
+- [template-project](http://github.com/eleanorfrajka/template-project) - a template for a python project demonstrating a minimum working example with the features and project structure recommended for this gorup.
 <!--
 
 **Here are some ideas to get you started:**
