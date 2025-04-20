@@ -11,6 +11,7 @@ Elsewhere on github:
 - [amocarray](http://github.com/AMOCCommunity/amocarray) - for loading data from overturning transport arrays (e.g., RAPID, OSNAP, MOVE, SAMBA)
 - [glidertest](http://github.com/oceangliderscommunity/glidertest) - for carrying out tests to evaluate data foibles on glider data in [OG1](https://oceangliderscommunity.github.io/OG-format-user-manual/OG_Format.html) format.
 - [fetchAZA](http://github.com/eleanorfrajka/fetchAZA) - for loading and standarising data from the Sonardyne FetchAZA pressure sensor.
+- [flightmodels](http://github.com/eleanorfrajka/flightmodels) - for running glider flight models on OG1 format data.
 
 Coursebooks:
 - [amoccourse](http://github.com/ifmeo-hamburg/amoccourse) - (students only) for the MSc AMOC course in Summer Semester 2025
