@@ -2,12 +2,15 @@
 
 This is the organisation for the [Experimental Oceanography](http://eleanorfrajka.com) group of the [University of Hamburg](https://www.ifm.uni-hamburg.de/en.html).  Repositories here are developed by current and past group members and colleagues, and consist of coursebooks for teaching, code for processing oceanographic data, and for analysing data.
 
-- [amocarray](http://github.com/AMOCCommunity/amocarray) - for loading data from overturning transport arrays (e.g., RAPID, OSNAP, MOVE, SAMBA)
+On ifmeo-hamburg:
 - [seagliderOG1](http://github.com/ifmeo-hamburg/seagliderOG1) - for translation Seaglider basestation files to [OG1](https://oceangliderscommunity.github.io/OG-format-user-manual/OG_Format.html) format.
 - [WBTSdata](http://github.com/ifmeo-hamburg/WBTSdata) - for loading hydrographic/LADCP data from the Western Boundary Time Series at 26.5°N in the Atlantic
+- [ctd-tools](http://github.com/ifmeo-hamburg/ctd-tools) - for loading data in various formats from oceanographic instruments
+
+Elsewhere on github:
+- [amocarray](http://github.com/AMOCCommunity/amocarray) - for loading data from overturning transport arrays (e.g., RAPID, OSNAP, MOVE, SAMBA)
 - [glidertest](http://github.com/oceangliderscommunity/glidertest) - for carrying out tests to evaluate data foibles on glider data in [OG1](https://oceangliderscommunity.github.io/OG-format-user-manual/OG_Format.html) format.
 - [fetchAZA](http://github.com/eleanorfrajka/fetchAZA) - for loading and standarising data from the Sonardyne FetchAZA pressure sensor.
-- [ctd-tools](http://github.com/ifmeo-hamburg/ctd-tools) - for loading data in various formats from oceanographic instruments
 
 Coursebooks:
 - [amoccourse](http://github.com/ifmeo-hamburg/amoccourse) - (students only) for the MSc AMOC course in Summer Semester 2025
