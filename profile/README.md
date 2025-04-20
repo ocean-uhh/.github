@@ -11,14 +11,11 @@ Repositories here are developed by current and past group members and collaborat
   
 ## 🧰 Repositories on `ifmeo-hamburg`
 
-- 🐋 [**seagliderOG1**](http://github.com/ifmeo-hamburg/seagliderOG1)  
-  ➤ For translating Seaglider basestation files to [OG1 format](https://oceangliderscommunity.github.io/OG-format-user-manual/OG_Format.html)
+- 🐋 [**seagliderOG1**](http://github.com/ifmeo-hamburg/seagliderOG1) - For translating Seaglider basestation files to [OG1 format](https://oceangliderscommunity.github.io/OG-format-user-manual/OG_Format.html)
 
-- 🌊 [**WBTSdata**](http://github.com/ifmeo-hamburg/WBTSdata)  
-  ➤ For loading hydrographic/LADCP data from the Western Boundary Time Series at 26.5°N in the Atlantic
+- 🌊 [**WBTSdata**](http://github.com/ifmeo-hamburg/WBTSdata) - For loading hydrographic/LADCP data from the Western Boundary Time Series at 26.5°N in the Atlantic
 
-- 🌡️ [**ctd-tools**](http://github.com/ifmeo-hamburg/ctd-tools)  
-  ➤ For loading data from oceanographic instruments in various formats
+- 🌡️ [**ctd-tools**](http://github.com/ifmeo-hamburg/ctd-tools) - For loading data from oceanographic instruments in various formats
 
 ---
 
