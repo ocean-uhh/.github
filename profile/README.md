@@ -31,7 +31,7 @@ Repositories here are developed by current and past group members and collaborat
 
 - 🔄 [**amoc-course**](http://github.com/ocean-uhh/amoc-course) *(registered students only)* - MSc AMOC course, Summer Semester 2025
 - 🌐 [**seaocn**](http://github.com/ocean-uhh/seaocn) - MSc Seagoing Oceanography, Summer Semester 2024
-- 🛰️ [**messfern**](http://github.com/ocean-uhh/messfern) - BSc Messmethoden und Fernerkundung, Winter Semester 2024/25
+- 🛰️ [**messfern**](https://ocean-uhh.github.io/messfern/intro.html) - BSc Messmethoden und Fernerkundung, Winter Semester 2025/26
 - 🗺️ [**regoz**](http://github.com/ocean-uhh/regoz) - BSc Regional Oceanography, Summer Semester 2024
 
 ---
